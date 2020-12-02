@@ -12,7 +12,7 @@ To that I answer... **why not?**
 
 ### Dreaming in the Concrete Jungle
 
-I'd like to say the reason that I chose the road less traveled towards software engineering is because I grew up near the Silicon Valley. Potentially yes, but short answer - nope. My curiousity for technology (and eventually code) started in one of my survivor jobs in New York City. It's true - it really is the concrete jungle where dreams are made of.
+I'd like to say the reason that I chose the road less traveled towards software engineering is because I grew up near the Silicon Valley. Potentially yes, but short answer - nope. My curiosity for technology (and eventually code) started in one of my survivor jobs in New York City. It's true - it really is the concrete jungle where dreams are made of.
 
 ![NYC](https://latigar.files.wordpress.com/2015/03/we-love-ny.jpg)
 
