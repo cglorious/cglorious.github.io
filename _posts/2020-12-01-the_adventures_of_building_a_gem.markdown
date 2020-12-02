@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Adventures of Building A Gem"
-date:       2020-12-02 03:17:27 +0000
+date:       2020-12-01 22:17:27 -0500
 permalink:  the_adventures_of_building_a_gem
 ---
 
