@@ -19,7 +19,7 @@ Initially, I was tempted to build a complex app with not only **belongs to** and
 
 > "We must walk before we run."
 
-Thus, ***The Dramatist Library*** came into existence. It is a Create Read Update Delete (CRUD), Model View Controller (MVC) app built by means of Sinatra. My goals were to ensure that I could develop an app with user authentication and host a repetoire of play descriptions while utilizing  **belongs to** and **has many** relationships. The inspiration stem from the many days spent perusing *The Drama Book Shop* in New York City. 
+Thus, ***The Dramatist Library*** came into existence. It is a Create Read Update Delete (CRUD), Model View Controller (MVC) app built by means of Sinatra. My goals were to ensure that I could develop an app with user authentication and host a repetoire of play descriptions while utilizing  **belongs to** and **has many** relationships. The inspiration stems from the many days spent perusing *The Drama Book Shop* in New York City. 
 
 ![Drama Book Shop](https://3.bp.blogspot.com/-V5GAOPTapZc/XL0TrgYPrzI/AAAAAAABNb0/rWlr4oyLr_MruqgbBkSCxqJSC68o0hhUQCLcBGAs/s1600/photo.jpg)
 
@@ -29,7 +29,7 @@ The app is intended to provide playwrights an online resource to list their mate
 
 ![Computer Screen](https://i.cbc.ca/1.3473565.1489087511!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/programming-code.jpg)
 
-In comparison to a previous CLI Data App, I took much more time to plan out code rather than diving right in. This strategy proved effective, as I was able to refine and fully understand relationships between classes (Plays and Playwrights). In my pre-coding planning, I mapped out my ***Mininum Viable Product*** goals versus ***stretch*** goals. Some of which include the following:
+In comparison to a previous CLI Data App, I took much more time to plan out code rather than diving right in. This strategy proved effective, as I was able to refine and fully understand relationships between classes (Plays and Playwrights). In my pre-coding planning, I mapped out my ***Mininum Viable Product*** (MVP) goals versus my ***stretch*** goals. Some of the goals include the following:
 
 ```
 MVP: 
@@ -38,7 +38,7 @@ MVP:
 
 Stretch: 
 1. Users can view list by play or playwright
-2. Ability to edit profiles
+2. Users can edit profiles
 3. Incorporate styling with CSS
 ```
 
@@ -52,7 +52,7 @@ get '/login' do
 end
 ```
 
-Before coding further, I jumped into shotgun and confirmed that the following text appeared in the browser:
+Before coding further, I jumped into the browser via shotgun and to confirm that the following text appeared in the browser:
 
 ```
 This is the login page.
@@ -68,14 +68,15 @@ get '/login' do
 end
 
 playwrights/login.erb
-"This is the login erb file."
+
+<p> This is the login erb file. </p>
 ```
 
-I would then progress to ensure that *post*, *patch*, and *delete* routes were setup. Once the foundation was set, and the MVP goals were complete, I was then able to refactor and work towards stretch goals. 
+I would then progress to ensure that *post*, *patch*, and *delete* routes were setup. Once the foundation was set, and the MVP goals were complete, I was then able to refactor and work towards stretch goals. Line by line, through the usage of shotgun, tux, and pry, I was able to build ***The Dramatist Library***. 
 
 ### The Reflection
 
-While in the process of building a CRUD, MVC app utilizing Sinatra - a *Content Management System* (CMS), the priority was to instill function, then work on the flourishes through stretch goals. Code and refactor. Code and refactor.
+While in the process of building a *Content Management System* (CMS) app through Sinatra, my kept my priorities in sight. Instill and maintain functionality, then incorporate stretch goals. Code and refactor.
 
-Through *Error Driven Development* and refactoring, it's truly possible to code and create a fluid work of art. While there is undoubtedly a technical aspect to software engineering, it is quite a creative feat, afterall. 
+Through *Error Driven Development* and refactoring, it's truly possible to code and create a fluid work of art. While there is undoubtedly a technical aspect to software engineering, building an app is quite a creative feat. 
 
