@@ -7,7 +7,7 @@ permalink:  running_lines_and_refactoring
 
 ![Theater](https://howtodrama.com/wp-content/uploads/2019/02/audience-auditorium-back-view-713149-1080x675.jpg)
 
-In preparation for a performance in the theatre industry, it's essential for an actor to run lines. Running lines is the act of reading, and interpretting, and reading, and intepretting, until there is fluid motion in the delivery of the text. Similarly, writers write, and rewrite, and write, and rewrite. Software developers code, and refactor, and code, and refactor.
+In preparation for a performance in the theatre industry, it is essential for an actor to run lines. Running lines is the act of reading and interpreting continuously until there is fluid motion in the delivery of the text. Similarly, writers write and rewrite. Software developers code and refactor.
 
 > "The only type of writing is rewriting." - Ernest Hemmingway
 
