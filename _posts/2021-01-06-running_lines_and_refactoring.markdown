@@ -5,7 +5,7 @@ date:       2021-01-06 20:42:36 -0500
 permalink:  running_lines_and_refactoring
 ---
 
-![](https://howtodrama.com/wp-content/uploads/2019/02/audience-auditorium-back-view-713149-1080x675.jpg)
+![Theater](https://howtodrama.com/wp-content/uploads/2019/02/audience-auditorium-back-view-713149-1080x675.jpg)
 
 In preparation for a performance in the theatre industry, it's essential for an actor to run lines. Running lines is the act of reading, and interpretting, and reading, and intepretting, until there is fluid motion in the delivery of the text. Similarly, writers write, and rewrite, and write, and rewrite. Software developers code, and refactor, and code, and refactor.
 
@@ -21,13 +21,13 @@ Initially, I was tempted to build a complex app with not only **belongs to** and
 
 Thus, ***The Dramatist Library*** came into existence. It is a Create Read Update Delete (CRUD), Model View Controller (MVC) app built by means of Sinatra. My goals were to ensure that I could develop an app with user authentication and host a repetoire of play descriptions while utilizing  **belongs to** and **has many** relationships. The inspiration stem from the many days spent perusing *The Drama Book Shop* in New York City. 
 
-![](https://3.bp.blogspot.com/-V5GAOPTapZc/XL0TrgYPrzI/AAAAAAABNb0/rWlr4oyLr_MruqgbBkSCxqJSC68o0hhUQCLcBGAs/s1600/photo.jpg)
+![Drama Book Shop](https://3.bp.blogspot.com/-V5GAOPTapZc/XL0TrgYPrzI/AAAAAAABNb0/rWlr4oyLr_MruqgbBkSCxqJSC68o0hhUQCLcBGAs/s1600/photo.jpg)
 
 The app is intended to provide playwrights an online resource to list their material. Playwrights, or users, have the ability to create an account, login, and contribute plays to the library's collection. Playwrights also have the option to view lists of plays from other playwrights, either grouped by title or author.
 
 ### The Process
 
-![](https://i.cbc.ca/1.3473565.1489087511!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/programming-code.jpg)
+![Computer Screen](https://i.cbc.ca/1.3473565.1489087511!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/programming-code.jpg)
 
 In comparison to a previous CLI Data App, I took much more time to plan out code rather than diving right in. This strategy proved effective, as I was able to refine and fully understand relationships between classes (Plays and Playwrights). In my pre-coding planning, I mapped out my ***Mininum Viable Product*** goals versus ***stretch*** goals. Some of which include the following:
 
