@@ -15,7 +15,7 @@ I find several similarities in my role as a performing artist and my role as a s
 
 ### The Plan
 
-Initially, I was tempted to build a complex app with not only **belongs to** and **has many** relationships, but multiple types of users and **many to many** relationships. It took me about three hours to write, read, and (admittedly barely) understand the diagram to realize that this idea may be beyond the capabilities of Sinatra (and honestly beyond my current knowledge).
+Initially, I was tempted to build a complex app with not only **belongs to** and **has many** relationships, but multiple types of users and **many-to-many** relationships. It took me about three hours to write, read, and (admittedly barely) understand a diagram to realize that this idea may be beyond the capabilities of Sinatra (and honestly beyond my current knowledge).
 
 > "We must walk before we run."
 
