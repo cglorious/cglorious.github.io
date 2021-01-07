@@ -34,7 +34,7 @@ In comparison to a previous CLI Data App, I took much more time to plan out code
 ```
 MVP: 
 1. Users can create an account, login, and logout
-2. Users can create, edit, and view plays
+2. Users can create, read, update, and delete plays
 
 Stretch: 
 1. Users can view list by play or playwright
@@ -76,7 +76,7 @@ I would then progress to ensure that *post*, *patch*, and *delete* routes were s
 
 ### The Reflection
 
-While in the process of building a *Content Management System* (CMS) app through Sinatra, my kept my priorities in sight. Instill and maintain functionality, then incorporate stretch goals. Code and refactor.
+While in the process of building a *Content Management System* (CMS) app through Sinatra, I kept my priorities in sight: instill and maintain functionality, then incorporate stretch goals. Code and refactor.
 
-Through *Error Driven Development* and refactoring, it's truly possible to code and create a fluid work of art. While there is undoubtedly a technical aspect to software engineering, building an app is quite a creative feat. 
+Through *Error Driven Development* and refactoring, it's truly possible to code and create a fluid work of art. While there is undoubtedly a technical aspect to software engineering, the artist in me is quite pleased that building an app is quite a creative feat. 
 
