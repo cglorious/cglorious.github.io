@@ -11,7 +11,7 @@ In preparation for a performance in the theatre industry, it is essential for an
 
 > "The only type of writing is rewriting." - Ernest Hemmingway
 
-I find several similarities between my journey as a performing artist and as a software engineer. After all, coding is a creative process. Like other creatives, software engineers use their imagination, creativity, and skillset to produce an artistic piece of work that doesn't exist. It is executed through the lines of code.
+I find several similarities in my role as a performing artist and my role as a software engineer. After all, coding is a creative process. Like other creatives, software engineers use their imagination, creativity, and skillset to ultimately produce an artistic piece of work that doesn't exist. It is executed through the lines of code.
 
 ### The Plan
 
