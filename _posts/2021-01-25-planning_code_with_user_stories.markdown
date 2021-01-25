@@ -35,7 +35,7 @@ Now let’s explore a different industry: software development.
 
 I’m currently in the process of building a [Ruby on Rails application named "Karl"](https://github.com/cglorious/karl-rails-app). Karl the app manages related data in the form of reviews through complex forms and RESTful routes. And in case you're wondering, the app is conveniently named after the infamous ["Karl the Fog"](https://twitter.com/karlthefog) from San Francisco. 
 
-![Karl the Fog](https://s.hdnux.com/photos/64/04/70/13651494/4/rawImage.jpg)
+![Karl the Fog](https://media.nbcbayarea.com/2020/10/GettyImages-180089422.jpg?resize=850%2C478)
 
 The goal Karl the app is to build a Content Management System in the form of customer reviews. I used it as an opportunity to recreate a localized business review system in San Francisco.
 
