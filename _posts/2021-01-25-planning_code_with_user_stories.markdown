@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Planning Code with User Stories"
-date:       2021-01-25 22:14:10 +0000
+date:       2021-01-25 17:14:11 -0500
 permalink:  planning_code_with_user_stories
 ---
 
@@ -51,11 +51,11 @@ By implementing ***User Stories*** in the planning aspect, we can plan our code 
 
 ![User Story](https://www.scrumwithstyle.com/wp-content/uploads/2018/02/User-Story-Card.png)
 
-##### Who?
+**Who?**
 
 User Stories are used by developers, stakeholders, and team members. It’s content is derived from users who contribute to the data.
 
-##### What?
+**What?**
 
 The implementation of User Stories is an approach that allows customer centric conversations to exist. In its structure, there are a few key features to note:
 
@@ -79,7 +79,7 @@ CCC
 * **C** onversation - conversations with product owners, stakeholders, and team
 * **C** onfirmation - conditions of satisfaction that indicate completion
 
-##### Why?
+**Why?**
 
 The purpose of implementing User Stories is to articulate how software features will provide value to the customer. Planning from the customer’s perspective gives a framework to allow for the ability to deliver software quickly. It captures and prioritizes requirements for sprints.
 
