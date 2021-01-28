@@ -1,11 +1,11 @@
 # Site settings
 author: Catherine Gloria
-title: Fail Gloriously While Coding
+title: Coding Creatively
 header-img: img/home-bg.png
 email: catherinegloria@gmail.com
 copyright_name: Catherine Gloria
 description: > # this means to ignore newlines until "baseurl:"
-  The Growth Mindset of a Software Engineer
+  A singing coder aspiring to build programs for youth
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cglorious
