@@ -33,7 +33,7 @@ Pomona will be thrilled to know that she can write down the number of potted Dit
 
 Now let’s explore a different industry: software development.
 
-I’m currently in the process of building a [Ruby on Rails application named "Karl"](https://github.com/cglorious/karl-rails-app). Karl the app manages related data in the form of reviews through complex forms and RESTful routes. And in case you're wondering, the app is conveniently named after the infamous ["Karl the Fog"](https://twitter.com/karlthefog) from San Francisco. 
+I recently completed the first version a [Ruby on Rails web application named "Karl"](https://github.com/cglorious/karl-rails-app). Karl the web app manages related data in the form of reviews through complex forms and RESTful routes. And in case you're wondering, the app is conveniently named after the infamous ["Karl the Fog"](https://twitter.com/karlthefog) from San Francisco. 
 
 ![Karl the Fog](https://media.nbcbayarea.com/2020/10/GettyImages-180089422.jpg?resize=850%2C478)
 
