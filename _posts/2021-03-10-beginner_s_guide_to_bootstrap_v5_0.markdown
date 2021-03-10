@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Beginner’s Guide to Bootstrap v5.0"
-date:       2021-03-10 20:47:33 +0000
+date:       2021-03-10 15:47:33 -0500
 permalink:  beginner_s_guide_to_bootstrap_v5_0
 ---
 
 
 ![Bootstrap with computer](https://www.tutorialrepublic.com/lib/images/bootstrap-illustration.png)
 
-I recently created a Single Page Application (SPA) titled [Fruits Parlor Crown ](https://github.com/cglorious/fruits-parlor-crown-frontend) with Flatiron School that communicates with the [backend API](https://github.com/cglorious/fruits-parlor-crown-backend) built with Ruby on Rails. It is a Sailor Moon fandom database for characters in the Sailor Moon anime series, dividing them into the protagonist group “Guardian” and antagonist group “Villian.”
+I recently created a Single Page Application (SPA) titled [Fruits Parlor Crown ](https://github.com/cglorious/fruits-parlor-crown-frontend) with Flatiron School that communicates with the [backend API](https://github.com/cglorious/fruits-parlor-crown-backend) built with Ruby on Rails. It is a Sailor Moon fandom database for characters in the Sailor Moon anime series, dividing them into the protagonist group *Guardian* and antagonist group *Villain*.
 
 Whereas previously I implemented Vanilla CSS, my goal for this project was to utilize [Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/) as a framework. Additionally, I created HTML dynamically using JavaScript.
 
