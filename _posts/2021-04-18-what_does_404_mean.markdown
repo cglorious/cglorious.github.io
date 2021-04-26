@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What does 404 mean?"
-date:       2021-04-18 18:50:36 +0000
+date:       2021-04-18 14:50:37 -0400
 permalink:  what_does_404_mean
 ---
 
@@ -53,7 +53,7 @@ Now that we have an idea of what 404 Not Found error codes are and how a user co
 
 ### Add a 404 Page
 
-I built React Redux application [Magic Mouse](https://github.com/cglorious/magic-mouse-frontend) with Flatiron School. The application is intended to be a ride and attraction tracker in which guests at the Disney parks can log the number of times they rode an attraction, which adds to their overall trip points.
+I built React Redux application [Magic Mouse](https://github.com/cglorious/magic-mouse-frontend-v2) with Flatiron School. The application is intended to be a ride and attraction tracker in which guests at the Disney parks can log the number of times they rode an attraction, which adds to their overall trip points.
 
 Within the application, I implemented adding routes to render varying components depending on the user's interaction. I implemented a redirect to a 404 Not Found page as a strategy to adhere to user or potential website errors. 
 
